@@ -1,5 +1,5 @@
 # C++-language
-Authorized - by Tech programmer 
+Authorized - by Fatima
 <br>
 This repository contains my daily C++ practice code.
 I created this project to improve my programming skills and strengthen my understanding of core C++ concepts.
